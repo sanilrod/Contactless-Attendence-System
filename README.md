@@ -18,7 +18,7 @@
       </ul>
     </li>
     <li><a href="#Images">Images</a></li>
-    <li><a href="#Video">Roadmap</a></li>
+    <li><a href="#Video">Video</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
