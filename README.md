@@ -95,9 +95,8 @@ This are libraries you need to  install them.
 <!-- USAGE EXAMPLES -->
 ## Images
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+![Home page](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/Screenshot%20from%202020-12-03%2022-39-06.png?raw=true "Main Page")
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
