@@ -1,0 +1,26 @@
+
+
+{% if widget.type in ""  %}
+
+<div class="django_material">
+    <input type="{{ widget.type }}" name="{{ widget.name }}"{% if widget.value != None %} value="{{ widget.value|stringformat:'s' }}"{% endif %}{% include "django/forms/widgets/attrs.html" %} />
+<hr>
+
+
+
+</div>
+
+<style>
+//label[for={{ widget.attrs.id }}]
+//{
+  //  display:none;
+//}
+</style>
+
+
+{% else %}
+
+    <input type="{{ widget.type }}" name="{{ widget.name }}"{% if widget.value != None %} value="{{ widget.value|stringformat:'s' }}"{% endif %}{% include "django/forms/widgets/attrs.html" %} />
+
+
+{% endif %}

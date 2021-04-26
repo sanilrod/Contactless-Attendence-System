@@ -1,0 +1,129 @@
+{% extends "admin/base_site.html" %}
+{% load i18n static %}
+
+
+
+{% block branding %}
+
+
+
+
+{% endblock %}
+
+{% block extrastyle %}{{ block.super }}<link rel="stylesheet" type="text/css" href="{% static "admin/css/login.css" %}" />
+{{ form.media }}
+{% endblock %}
+
+{% block bodyclass %}{{ block.super }} login{% endblock %}
+
+{% block usertools %}{% endblock %}
+
+{% block nav-global %}{% endblock %}
+
+{% block content_title %}{% endblock %}
+
+{% block breadcrumbs %}{% endblock %}
+
+
+
+
+{% block content %}
+
+<div class="login_container">
+  <!--<img  src="/media/gcs_logo.png"  class="login_logo"  />-->
+    <h1 style="color:white;font-size:30px;font-weight:900;">College Attendance System Using Face Detection</h1>
+</div>
+
+<div  class="center_align_item_horizontal loginbox_container">
+<div>
+
+{% if form.errors and not form.non_field_errors %}
+<p class="errornote">
+{% if form.errors.items|length == 1 %}{% trans "Please correct the error below." %}{% else %}{% trans "Please correct the errors below." %}{% endif %}
+</p>
+{% endif %}
+
+{% if form.non_field_errors %}
+{% for error in form.non_field_errors %}
+<p class="errornote">
+    {{ error }}
+</p>
+{% endfor %}
+{% endif %}
+
+<div id="content-main">
+
+{% if user.is_authenticated %}
+<p class="errornote">
+{% blocktrans trimmed %}
+    You are authenticated as {{ username }}, but are not authorized to
+    access this page. Would you like to login to a different account?
+{% endblocktrans %}
+</p>
+{% endif %}
+
+<form action="{{ app_path }}" onsubmit="showLoader();" method="post" id="login-form">{% csrf_token %}
+  <div class="form-row">
+    {{ form.username.errors }}
+      <h3 style="color:white;">Username</h3>
+   {{ form.username }}
+  </div>
+  <div class="form-row">
+    {{ form.password.errors }}
+      <h3 style="color:white;">Password</h3>
+    {{ form.password }}
+    <input type="hidden" name="next" value="{{ next }}" />
+  </div>
+  {% url 'admin_password_reset' as password_reset_url %}
+  {% if password_reset_url %}
+  <div class="password-reset-link">
+    <a href="{{ password_reset_url }}">{% trans 'Forgotten your password or username?' %}</a>
+  </div>
+  {% endif %}
+  <div class="submit-row">
+    <label>&nbsp;</label><input  class="ripple_button login_btn" style="background-color:#5867DD !important;color:white !important;" type="submit" value="{% trans 'Log in' %}" />
+  </div>
+</form>
+    <br/>
+   <!--<Button class="ripple_button reg_btn" style="background-color:#0D47A1 !important;"  onClick="nextActivity('/admin/faceapp/registration/add/','register_activity')">New Registration ?</Button>-->
+</div>
+
+    </div>
+
+
+</div>
+
+<style>
+
+
+.login_container {
+
+ display:flex;
+    justify-content:center;
+    align-items:center;
+
+
+}
+
+.login_logo {
+
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+
+}
+
+#container{
+
+background:darkblue !important;
+}
+
+#content{
+background-color:#212121 !important;
+
+}
+
+
+</style>
+
+{% endblock %}

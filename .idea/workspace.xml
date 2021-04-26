@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="413906d2-5ffd-4735-887f-0addd13ce3ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI/media/JS/attendance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lostNfound/UI/app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../trail/app/src/main/assets/media/printographylogo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../trail/app/src/main/java/com/rp/college/printography/ScannerActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../trail/app/src/main/res/layout/activity_scanner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../website_builder/GCS/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../website_builder/shaboi/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../website_builder/static/asset/web/bootstrap_template_js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../website_builder/templates/GCS/jobsheet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../website_builder/templates/shaboi/culture.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../website_builder/templates/shaboi/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../website_builder/templates/shaboi/jobs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../website_builder/templates/shaboi/listing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../website_builder/templates/shaboi/masstiming.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../website_builder/templates/shaboi/podcast.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../website_builder/templates/shaboi/prayers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../website_builder/templates/shaboi/recentdeaths.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../website_builder/templates/shaboi/seminars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../website_builder/templates/shaboi/songs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../website_builder/templates/shaboi/splash.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../website_builder/templates/shaboi/talent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../website_builder/templates/shaboi/videoplayer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../website_builder/templates/web_basescript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../website_builder/templates/web_basestyle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/app/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/app/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/django/contrib/admin/sites.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/django/contrib/admin/sites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/django/contrib/admin/templates/admin/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/django/contrib/admin/templates/admin/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/django/contrib/admin/templates/admin/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/django/contrib/admin/templates/admin/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/django/contrib/admin/templates/admin/submit_line.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/django/contrib/admin/templates/admin/submit_line.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/django/contrib/auth/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/django/contrib/auth/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/django/contrib/auth/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/django/contrib/auth/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/django/contrib/auth/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/django/contrib/auth/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/gear.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/gear.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/graphic16.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/graphic16.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/graphic17.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/graphic17.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/graphic18.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/graphic18.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/logo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/logo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_10.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_10.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_100.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_100.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_101.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_101.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_102.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_102.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_103.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_103.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_104.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_104.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_105.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_105.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_106.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_106.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_107.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_107.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_108.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_108.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_109.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_109.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_11.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_11.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_110.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_110.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_111.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_111.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_112.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_112.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_113.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_113.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_114.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_114.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_115.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_115.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_12.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_12.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_13.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_13.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_14.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_14.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_15.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_15.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_16.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_16.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_17.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_17.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_18.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_18.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_19.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_19.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_20.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_20.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_21.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_21.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_22.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_22.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_23.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_23.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_24.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_24.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_25.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_25.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_26.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_26.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_27.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_27.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_28.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_28.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_29.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_29.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_30.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_30.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_31.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_31.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_32.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_32.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_33.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_33.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_34.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_34.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_35.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_35.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_36.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_36.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_37.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_37.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_38.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_38.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_39.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_39.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_4.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_40.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_40.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_41.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_41.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_42.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_42.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_43.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_43.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_44.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_44.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_45.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_45.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_46.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_46.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_47.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_47.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_48.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_48.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_49.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_49.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_5.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_5.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_50.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_50.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_51.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_51.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_52.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_52.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_53.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_53.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_54.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_54.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_55.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_55.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_56.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_56.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_57.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_57.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_58.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_58.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_59.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_59.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_6.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_6.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_60.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_60.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_61.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_61.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_62.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_62.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_63.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_63.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_64.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_64.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_65.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_65.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_66.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_66.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_67.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_67.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_68.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_68.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_69.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_69.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_7.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_7.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_70.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_70.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_71.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_71.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_72.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_72.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_73.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_73.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_74.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_74.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_75.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_75.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_76.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_76.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_77.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_77.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_78.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_78.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_79.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_79.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_8.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_8.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_80.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_80.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_81.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_81.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_82.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_82.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_83.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_83.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_84.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_84.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_85.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_85.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_86.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_86.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_87.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_87.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_88.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_88.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_89.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_89.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_9.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_9.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_90.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_90.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_91.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_91.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_92.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_92.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_93.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_93.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_94.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_94.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_95.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_95.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_96.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_96.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_97.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_97.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_98.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_98.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_99.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/media/undraw/undraw_99.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/organicDrop/migrations/0009_auto_20200807_2140.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/organicDrop/migrations/0009_auto_20200807_2140.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/organicDrop/migrations/0010_auto_20200807_2324.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/organicDrop/migrations/0010_auto_20200807_2324.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/organicDrop/migrations/0011_auto_20200807_2334.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/organicDrop/migrations/0011_auto_20200807_2334.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/organicDrop/migrations/0012_auto_20200808_0118.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/organicDrop/migrations/0012_auto_20200808_0118.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/organicDrop/migrations/0013_auto_20200808_1240.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/organicDrop/migrations/0013_auto_20200808_1240.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/organicDrop/migrations/0014_auto_20200808_1319.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/organicDrop/migrations/0014_auto_20200808_1319.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/organicDrop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/organicDrop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/organicDrop/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/organicDrop/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/rename_undraw.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/rename_undraw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/saharapp/migrations/0015_auto_20200807_2324.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/saharapp/migrations/0015_auto_20200807_2324.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/saharapp/migrations/0016_auto_20200807_2334.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/saharapp/migrations/0016_auto_20200807_2334.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/saharapp/migrations/0017_auto_20200808_0118.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/saharapp/migrations/0017_auto_20200808_0118.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/saharapp/migrations/0018_auto_20200808_1240.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/saharapp/migrations/0018_auto_20200808_1240.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/saharapp/migrations/0019_auto_20200808_1319.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/saharapp/migrations/0019_auto_20200808_1319.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/static/admin/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/static/admin/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/static/admin/js/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/static/admin/js/core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/static/asset/JS/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/static/asset/JS/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/staticfiles/admin/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/staticfiles/admin/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/staticfiles/admin/js/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/staticfiles/admin/js/core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/staticfiles/asset/CSS/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/staticfiles/asset/CSS/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/staticfiles/asset/JS/drawer1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/staticfiles/asset/JS/drawer1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/staticfiles/asset/JS/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/staticfiles/asset/JS/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/templates/basejavascript.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/templates/basejavascript.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/templates/basestyle.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/templates/basestyle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/templates/manage.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/templates/manage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/website_builder/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/website_builder/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website_builder/website_builder/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website_builder/website_builder/urls.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="54193394">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="902" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="902" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UI/app/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UI/app/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="196" column="36" lean-forward="true" selection-start-line="196" selection-start-column="36" selection-end-line="196" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UI/UI/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/UI/app/models.py" />
+        <option value="$PROJECT_DIR$/UI/UI/settings.py" />
+        <option value="$PROJECT_DIR$/UI/app/admin.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="647" />
+    <option name="y" value="113" />
+    <option name="width" value="974" />
+    <option name="height" value="967" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="facercognition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="facercognition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="facercognition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="facercognition" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="facercognition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="facercognition" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="facercognition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="facercognition" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="facercognition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="facercognition" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="413906d2-5ffd-4735-887f-0addd13ce3ef" name="Default Changelist" comment="" />
+      <created>1606045329974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606045329974</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/UI/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/UI/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/app/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="196" column="36" lean-forward="true" selection-start-line="196" selection-start-column="36" selection-end-line="196" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
