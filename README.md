@@ -1,18 +1,5 @@
 
 # Contactless Attendence System
- 
-<p> Uniqueness or individuality of an individual face is the representation of one’s identity. In this
-project face of an individual is used for the purpose of attendance making automatically.
-Attendance of the teacher is very important for every college, universities and school.
-Conventional methodology for taking attendance is by Biometric thumb or register of the
-teachers and the attendance is recorded. Time consumption for this purpose is an important
-point of concern. To stay away from these losses, an automatic process is used in this project
-which is based on image processing. In this project face detection and face recognition is used.
-Face detection is used to locate the position of face region and face recognition is used for
-marking the understudy’s attendance. The database of all the teachers in the college is stored
-and when the face of the individual teachers matches with one of the faces stored in the
-database then the attendance is recorded.</p>
-
 
 <details open="open">
   <summary>Table of Contents</summary>
@@ -42,19 +29,25 @@ database then the attendance is recorded.</p>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<p> Uniqueness or individuality of an individual face is the representation of one’s identity. In this
+project face of an individual is used for the purpose of attendance making automatically.
+Attendance of the teacher is very important for every college, universities and school.
+Conventional methodology for taking attendance is by Biometric thumb or register of the
+teachers and the attendance is recorded. Time consumption for this purpose is an important
+point of concern. To stay away from these losses, an automatic process is used in this project
+which is based on image processing. In this project face detection and face recognition is used.
+Face detection is used to locate the position of face region and face recognition is used for
+marking the understudy’s attendance. The database of all the teachers in the college is stored
+and when the face of the individual teachers matches with one of the faces stored in the
+database then the attendance is recorded.</p>
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+The objective of this project is to develop face recognition attendance system. Expected
+achievements in order to fulfill the objectives are:
+• To detect the face segment from the video frame.
+• To extract the useful features from the face detected.
+• To classify the features in order to recognize the face detected.
+• To record the attendance of the identified teacher.
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
 
