@@ -97,22 +97,22 @@ This are libraries you need to  install them.
 
 ![Home page](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/Screenshot%20from%202020-12-03%2022-39-06.png?raw=true "Main Page")
 
-
+<br>
 
 ![Home page](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/Screenshot%20from%202020-12-09%2016-59-58.png?raw=true "Main Page")
 
-
+<br>
 
 ![Home page](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/Screenshot%20from%202020-12-09%2013-44-20.png?raw=true "Dashboard")
 
-
+<br>
 
 ![Home page](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/Screenshot%20from%202020-12-09%2013-45-31.png?raw=true "")
 
-
+<br>
 
 ![Home page](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/Screenshot%20from%202020-12-11%2000-57-51.png?raw=true "")
-
+<br>
 <!-- ROADMAP -->
 ## Video
 
@@ -143,7 +143,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@sanil_rodrigues](https://twitter.com/sanil_rodrigues) - Sanilrod20@gmail.com
+Name - [@sanil_rodrigues](https://twitter.com/sanil_rodrigues) - Sanilrod20@gmail.com
 
 Website Link: [https://sanilrod.github.io/](https://sanilrod.github.io/)
 
