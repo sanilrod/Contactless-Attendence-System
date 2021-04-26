@@ -51,10 +51,12 @@ achievements in order to fulfill the objectives are:<br>
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [HTML](https://html.spec.whatwg.org/)
+* [CSS](https://www.w3.org/TR/CSS/#css)
+* [Java Script](https://www.javascript.com/)
+* [Python](https://www.python.org/)
+* [Django](https://www.djangoproject.com/)
+* [Face Recognition](https://pypi.org/project/face-recognition/)
 
 
 
