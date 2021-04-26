@@ -143,12 +143,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Name - [@sanil_rodrigues](https://twitter.com/sanil_rodrigues) - Sanilrod20@gmail.com
-
+Name - [Sanil Rodrigues](https://www.linkedin.com/in/sanil-rodrigues-8192b6199/) - Sanilrod20@gmail.com
 Website Link: [https://sanilrod.github.io/](https://sanilrod.github.io/)
-
-
-
+<br>
+Name - [Selvin Tuscano](https://www.linkedin.com/in/selvintuscano/) - selvintuscano31@gmail.com
+Website Link: [https://selvintuscano.github.io/](https://selvintuscano.github.io/)
+<br>
+Name - [Rincy Pereira](https://www.linkedin.com/in/rincy-pereira-86b5a9199/) - pereirarincy24@gmail.com
 
 
 
