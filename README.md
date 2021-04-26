@@ -42,11 +42,11 @@ and when the face of the individual teachers matches with one of the faces store
 database then the attendance is recorded.</p>
 
 The objective of this project is to develop face recognition attendance system. Expected
-achievements in order to fulfill the objectives are:
-• To detect the face segment from the video frame.
-• To extract the useful features from the face detected.
-• To classify the features in order to recognize the face detected.
-• To record the attendance of the identified teacher.
+achievements in order to fulfill the objectives are:<br>
+• To detect the face segment from the video frame.<br>
+• To extract the useful features from the face detected.<br>
+• To classify the features in order to recognize the face detected.<br>
+• To record the attendance of the identified teacher.<br>
 
 
 ### Built With
