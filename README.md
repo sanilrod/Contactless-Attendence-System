@@ -1,5 +1,6 @@
+![Home page](https://github.com/sanilrod/Contactless-Attendence-System/blob/main/img/p-1.png?raw=true "Main Page")
 
-# Contactless Attendence System
+<br>
 
 <details open="open">
   <summary>Table of Contents</summary>
