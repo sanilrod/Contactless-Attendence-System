@@ -17,7 +17,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#Images">Images</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -79,7 +79,7 @@ This are libraries you need to  install them.
 1. Install Ubantu using given tutorial [Ubantu installation tutorial](https://youtu.be/-iSAyiicyQY)
 2. Go to Terminal and activate virtual environment
    ```sh
-   source Contactless-Attendence-System-env/bin/activate
+   source Contactless-Attendence-System -env/bin/activate
    ```
 3. Run the project 
    ```sh
@@ -93,7 +93,7 @@ This are libraries you need to  install them.
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Images
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
