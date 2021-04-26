@@ -76,18 +76,18 @@ This are libraries you need to  install them.
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Install Ubantu using given tutorial [Ubantu installation tutorial](https://youtu.be/-iSAyiicyQY)
+2. Go to Terminal and activate virtual environment
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   source Contactless-Attendence-System-env/bin/activate
    ```
-3. Install NPM packages
+3. Run the project 
    ```sh
-   npm install
+   python manage.py runserver
    ```
-4. Enter your API in `config.js`
+4. Open Your default brouser and type the given ip address 
    ```JS
-   const API_KEY = 'ENTER YOUR API';
+   http://127.0.0.1/
    ```
 
 
@@ -135,21 +135,6 @@ Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.c
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
 
 
 
